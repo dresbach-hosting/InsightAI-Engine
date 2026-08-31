@@ -1,0 +1,2 @@
+GitHub write test created by ChatGPT on 2026-08-31.
+This file verifies that the connected GitHub integration can create repository content.
